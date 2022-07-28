@@ -1,3 +1,6 @@
+## Management System CRM
+본 프로그램은 React 초보가 막 시작하는 고객관리시스템 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
